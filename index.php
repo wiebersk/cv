@@ -3,10 +3,10 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Philip I. Thomas Curriculum Vitae</title>
+    <title>Kyle C. Wiebers Curriculum Vitae</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Curriculum Vitae for Philip I. Thomas">
-    <meta name="author" content="Philip I. Thomas">
+    <meta name="description" content="Curriculum Vitae for Kyle C. Wiebers">
+    <meta name="author" content="Kyle Wiebers">
 
     <!-- Le styles -->
     <link href="../assets/css/bootstrap.css" rel="stylesheet">
@@ -26,16 +26,16 @@
     <link rel="shortcut icon" href="../assets/ico/favicon.ico">
 	<script type="text/javascript">
 
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-9939917-3']);
-	  _gaq.push(['_setDomainName', 'philipithomas.com']);
-	  _gaq.push(['_trackPageview']);
+	  // var _gaq = _gaq || [];
+	  // _gaq.push(['_setAccount', 'UA-9939917-3']);
+	  // _gaq.push(['_setDomainName', 'philipithomas.com']);
+	  // _gaq.push(['_trackPageview']);
 
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
+	  // (function() {
+	  //   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	  //   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	  //   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  // })();
 
 	</script>
   
@@ -88,12 +88,12 @@
 	<div class="span12">
 		<h3 style="text-align: center; text-style: italic">Curriculum Vitae for</h3>
 		
-      <h1 style="padding: 10px 0px; text-align: center; font-size: 60px; line-height: 70px; text-transform: lowercase">Philip I. Thomas</h1>
+      <h1 style="padding: 10px 0px; text-align: center; font-size: 60px; line-height: 70px; text-transform: lowercase">Kyle C. Wiebers</h1>
 	<span class="" style="text-align: center;"> 
 		<address>
-		<a href="http://philipithomas.com" target="_blank">www.philipithomas.com</a><br />
-		<a href="mailto:#">mail@philipithomas.com</a><br />
-		<a>+1.209.867.7445</a>
+		<a href="http://kyle.wiebe.rs" target="_blank">kyle.wiebe.rs</a><br />
+		<a href="mailto:#">kyle@wiebe.rs</a><br />
+		<a>+1.515.257.6830</a>
 		</address>
 	</span>
 		</div>
@@ -111,7 +111,7 @@
           <div class="row">
       
  		<div class="span12"><p>
- 			Philip Thomas graduates this Spring from <a href="http://wustl.edu">Washington University in St. Louis</a>, where he majors in Systems Engineering and Physics, and minors in Electrical Engineering. He serves as an Analyst on the technical due diligence team at <a href="http://cultivationcapital.com">Cultivation Capital</a>. His projects include <a href="http://textreject.com">Text Reject</a>, <a href="http://www.foodtrucksnearme.com">Food Trucks Near Me</a>, and <a href="http://automationkit.com">Automation Kit</a>. In his free time, he performs on the <a href="http://wusauce.wustl.edu">WUSauce</a> salsa dance team, and runs a <a href="http://wute.vc">venture capital lecture series</a> of the <a href="http://wute.org">Washington University Tech Entrepreneurs</a>. Other interests include coffee, <a href="http://beer.philipithomas.com">beer</a>, and rock climbing.
+ 			Kyle Wiebers is a graduate of <a href="http://www.iastate.edu">Iowa State University</a> with a major of Management Information Systems.  Kyle currently is a Solution Analyst with Kingland Systems specializing in Data Services for Financial Insitutions.  
  		</p>
 
  </div>
@@ -127,16 +127,13 @@
       </div>
     </div> <!-- end row -->
 <?php
-position("Washington University in Saint Louis","Saint Louis, MO","Bachelor of Science","Expected 5/13",'
+position("Iowa State University","Ames, IA","Bachelor of Science","5/12",'
 <ul>
-li><span style="font-weight: bold">Majors:</span> Systems Engineering, Physics</li>
-<li><span style="font-weight: bold">Minor:</span> Electrical Engineering</li> 
-<li><span style="font-weight: bold">Honors:</span> J. Alan and Marcia K. Ritter Scholar.</li>
-<li><span style="font-weight: bold">Relevant Coursework:</span> Signal Analysis, Stochastic Models.</li>
-<li><span style="font-weight: bold">Senior Project:</span> Analysis of <a href="http://aisle411.com/">Aisle411</a> Usage Data <span style="font-style:italic">(In Progress)</span></li>
+<li><span style="font-weight: bold">Major:</span> Management Information Systems</li>
+<li><span style="font-weight: bold">Honors:</span>Above and Beyond Award Recepient - Vice President Student Affairs</li>
+<li><span style="font-weight: bold">Relevant Coursework:</span></li>
+//<li><span style="font-weight: bold">Senior Project:</span> Analysis of <a href="http://aisle411.com/">Aisle411</a> Usage Data <span style="font-style:italic">(In Progress)</span></li>
 </ul>',"");
-position("Case Western Reserve University","Cleveland, OH","Organic chemistry lecture and laboratory","6/10-8/10","","");
-
 ?>
 
       </section>
@@ -152,86 +149,25 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
     </div> <!-- end row -->
     <?php
 
-    position("Text Reject","Saint Louis, MO","Co-Founder","10/12-Present",'
+    position("Kingland Systems","Ames, IA","Solution Analyst","8/11-Present",'
 	<ul>
-	<li>Designed, programmmed, and marketed an series of rejection-sending phone numbers that publish conversations online.</li>
-	<li>Semifinalist in national <a href="http://studentstartupmadness">Student Startup Madness</a> competition.</li>
-	</ul>','http://textreject.com.com');
+	<li></li>
+	<li></li>
+	</ul>','http://kingland.com');
 
-	position("Automation Kit","Saint Louis, MO","Managing Partner","6/12-Present",'
+	position("Kingland Systems","Ames, IA","Solution Analyst Intern","5/10-8/11",'
 	<ul>
-	<li>Equipped over a dozen clients with marketing tools to capture, convert, and cultivate leads automatically.</li>
-	<li><span style="font-weight: bold">Selected Clients:</span> Hostirian, Systematic Revenue, Venture Draft, St. Louis Arch Angels.</li>
-	</ul>','http://automationkit.com');
+	<li></li>
+	<li></li>
+	</ul>','http://kingland.com');
 	
 	
-	position("Food Trucks Near Me","Saint Louis, MO","Founder","6/12-Present",'
+	position("Iowa State University Memorial Union","Ames, IA","Information Systems Coordinator","1/09-8/10",'
 	<ul>
-	<li>Developed, launched, and marketed food truck finder website with successful launches in five cities, resulting in extensive media coverage and sustained web traffic.</li>
-	<li>Designed cross-platform CRM system to infer user cities of interest based on interactions with email updates and website, resulting in increased advertising relevancy for users.</li>
-	<li>Implemented automated cross-platform social media system resulting in high return traffic.</li>
-	</ul>',"http://foodtrucksnearme.com");
-	
-	
-	position("Cultivation Capital","Saint Louis, MO","Associate","3/12-Present",'
-	<ul>
-	<li>Performed screening of potential investments with a focus on technical analysis of technology and operations for due diligence reporting. </li>
-	</ul>',"http://cultivationcapital.com");
-	
-	
-	position("Washington University Tech Entrepreneurs (wute)","Saint Louis, MO","Director - wute.vc","9/11-Present",'
-	<ul>
-	<li>Launched wute.vc, a lecture series connecting students with venture capitalists and seasoned entrepreneurs, resulting in sponsorship by <a href="http://cultivationcaptital.com" target="_BLANK">Cultivation Capital</a>.</li>
-	<li>Attracted over 200 students to <a href="http://wute.vc/2012/10/press-release-alexis-ohanian-kicks-off-student-run-venture-capital-lecture-series-at-wustl/">first wute.vc speech by Reddit Co-Founder Alexis Ohanian</a> using a paperless marketing campaign.</li>
-	<li>Designed <a href="http://wute.vc" target="_BLANK">wute.vc</a> and re-designed <a href="http://wute.org" target="_BLANK">wute.org</a> websites.</li>
-	<li>Secured entry to the <a href="http://www.rackspacestartups.com/">Rackspace Startup Program</a>, including $3,000 worth of free hosting</li>
-	</ul>', "http://wute.org");
-	
-	
-	position("Washington University in St. Louis Department of Physics","Saint Louis, MO","Teaching Assistant, General Physics I and General Physics II","8/11-Present","", "");
-	
-	
-	position("WUSauce","St. Louis, MO","Communication Chair","9/10-Present",'
-	<ul>
-	<li>Performed with audition-only salsa dance team, taught salsa lessons, and participated in community outreach.</li>
-	<li>Implemented improved website and email marketing system, resulting in 20% increase in annual audition attendance and 200% increase in weekly lesson retention throughout each semester.</li>
-	<li>Served as Communication Director for annual Dance-Off event in 2011 and 2012, resulting in over 500 students attending each event.</li>
-	</ul>',"http://wusauce.wustl.edu");
-	
-	
-	position("Sapientia Media","St. Louis, MO","President","5/10-Present",'
-	<ul>
-	<li>Spearheaded client relation management, digital marketing strategy, website design, and brand positioning services.</li>
-	<li><span style="font-style:italic;">Selected Clients:</span> Evetos, On The Edge, St. Albans Promotions.</li>
-	</ul>',"http://sapientiamedia.com");
-	
-	
-	position("Washington University Student Investment Fund","St. Louis, MO","Communication Chair","1/10-6/12",'
-	<ul>
-	<li>Managed the investment of over $100,000 of the university endowment via qualitative, multiples, and DCF analysis, resulting in  growth exceeding S&P 500 Midcap Index on invested funds.</li>
-	<li>Competed nationally in investment competitions, and was a Finalist in the Spring 2011 <a href="http://miiuic.org/" target="_BLANK">Michigan Interactive Investments Competition</a>.</li>
-	<li><span style="font-style:italic;">Previous Positions:</span> Technology Portfolio Manager (2010), Webmaster (2010-2011), Healthcare Analyst (2010).</li>
-	</ul>',"http://wusif.org");
-	
-	
-	position("Washington University in St. Louis Department of Computer Science","St. Louis, MO","Teaching Assistant, Introduction to Computing Tools: MATLAB","1/11-6/11","","");
-	
-	
-   	position("Washington University School of Medicine in St. Louis","St. Louis, MO","Research Assistant, Dr. Jennifer Lodge Laboratory","9/09-1/12",'
-	<ul>
-	<li>Studied pathogenic fungus <a href="http://en.wikipedia.org/wiki/Cryptococcus_neoformans" target="_BLANK"><span style="font-style:italic;">Cryptococcus neoformans</span></a> with in vitro, in vivo, and computational techniques.</li>
-	<li>Selected Project Experience:
-		<ul>
-			<li>Bioinformatics – Designed, developed, and implemented a scalable <span style="font-style:italic;">C. neoformans</span> Strain Database for collaborative use in the scientific community. </li>
-			<li>Gene research – Studied stress sensors involved with nitrositive stress.</li>
-			<li>Animal testing – Analyzed strain virulence with <span style="font-style"italic;">in vitro</span> studies in mice.</li>
-		<ul>
-
-			
-	</li>
-	</ul>',"");
-
-
+	<li></li>
+	<li></li>
+	<li></li>
+	</ul>',"http://mu.iastate.edu");
            ?>
     
     
@@ -249,18 +185,16 @@ position("Case Western Reserve University","Cleveland, OH","Organic chemistry le
 	
 	<div class="span8">
 <?php
-iprogram('Matlab','90');
-iprogram('PHP','85');
-iprogram('Java','55');
-iprogram('CSS','40');
-iprogram('Python','45');
-iprogram('Relational Databases','85');
+iprogram('IBM Information Server','55');
+iprogram('Relational Databases','95');
 iprogram('NoSQL Databases','55'); 
-iprogram('Javascript','20');
-iprogram('Adobe CS6','40');
+iprogram('Javascript','75');
+iprogram('CSS','80');
+iprogram('Node.js','80');
 iprogram('Git','70');
-iprogram('Unix System Administration','40');
-iprogram('Mathematica','60');
+iprogram('Ruby on Rails','80');
+iprogram('PHP','75');
+iprogram('Java','45');
 
 
 
@@ -272,16 +206,10 @@ iprogram('Mathematica','60');
 		<hr />
 		<ul>
 		<?php
-			project('Food Trucks Near Me','http://www.foodtrucksnearme.com','');
-			project('Numbers.js Advanced Mathematics Library for Node.js and JavaScript <em>(contributor)</em>','','https://github.com/sjkaliski/numbers.js');
-			project('Computational Analysis of Diffusion as a Stochastic System','','http://github.com/philipithomas/diffusion');
-			project('Text Reject','http://textreject.com','https://github.com/textreject');
-			project('CSE131 Java','','https://github.com/philipithomas/cse131Java');
-			project('Curriculum Vitae','','https://github.com/philipithomas/cv-philipithomas');
-			project('Kill The Landline','http://killthelandline.com','');
+			project('Ballychat','http://ballychat.jit.su','');
 		?>
 		</ul>
-		<a class="pull-right btn btn-small btn-inverse" href="http://github.com/philipithomas">Github Profile <i class="icon-arrow-right icon-white"></i></a><br />
+		<a class="pull-right btn btn-small btn-inverse" href="http://github.com/wiebersk">Github Profile <i class="icon-arrow-right icon-white"></i></a><br />
 	</div>
 </div>
 </div>
@@ -300,14 +228,14 @@ iprogram('Mathematica','60');
 	<div class="span8">
 	<?php
 	
-	extra('Awards','
-		Eagle Scout<br />
-		Honorable Mention at 2012 Startup Weekend Columbia (<a href="http://killthelandline.com">Kill the Landline</a>)<br />
-		Semifinalist in <a href="http://studentstartupmadness.com">Student Startup Madness</a> (<a href="http://textreject.com">Text Reject</a>)<br />
-		Finalist in Spring 2011 Michigan Interactive Investments Competition');
-	extra('Language','Conversational Proficiency in Spanish');
-	extra('Organizations','The Engineers\' Club of St. Louis');
-	extra('Interests','Salsa Dancing<br /><a href="http://beer.philipithomas.com" target="_BLANK">Craft Beer</a><br />Coffee<br />Rock Climbing');
+	// extra('Awards','
+	// 	Eagle Scout<br />
+	// 	Honorable Mention at 2012 Startup Weekend Columbia (<a href="http://killthelandline.com">Kill the Landline</a>)<br />
+	// 	Semifinalist in <a href="http://studentstartupmadness.com">Student Startup Madness</a> (<a href="http://textreject.com">Text Reject</a>)<br />
+	// 	Finalist in Spring 2011 Michigan Interactive Investments Competition');
+	// extra('Language','Conversational Proficiency in Spanish');
+	// extra('Organizations','The Engineers\' Club of St. Louis');
+	// extra('Interests','Salsa Dancing<br /><a href="http://beer.philipithomas.com" target="_BLANK">Craft Beer</a><br />Coffee<br />Rock Climbing');
 	
 	?>
 	</div>
@@ -316,13 +244,13 @@ iprogram('Mathematica','60');
 		<h4>Selected Press</h4>
 		<hr />
 		<ul>
-			<li>St. Louis Business Journal: <a href="http://www.bizjournals.com/stlouis/blog/BizNext/2012/10/community-voices-philip-thomas-at.html?page=all">Philip Thomas at Startup Weekend </a></li>
+		<!-- 	<li>St. Louis Business Journal: <a href="http://www.bizjournals.com/stlouis/blog/BizNext/2012/10/community-voices-philip-thomas-at.html?page=all">Philip Thomas at Startup Weekend </a></li>
 				<li>Fox 2 Now: <a href="http://philipithomas.com/2012/07/food-truck-stl-on-fox-2-news-in-the-morning/">Live Interview with Food Truck Site Founder Philip I. Thomas </a></li>
 				<li>Forbes: <a href="http://www.forbes.com/sites/kaipetainen/2011/11/11/washu-students-provide-teva-some-healthy-love/">WashU Students Provide Teva Some Healthy Love</a></li>
 			<li>St. Louis Business Journal: <a href="http://www.bizjournals.com/stlouis/blog/BizNext/2012/09/wutevc-starts-venture-capital-lecture.html">wute.vc starts venture capital lecture series</a></li>
-			<li>Fox 2 Now: <a href="http://philipithomas.com/2012/10/me-on-fox-2-news-for-text-reject/">Text Reject Founders Demonstrate Website Live on TV</a></li>
+			<li>Fox 2 Now: <a href="http://philipithomas.com/2012/10/me-on-fox-2-news-for-text-reject/">Text Reject Founders Demonstrate Website Live on TV</a></li> -->
 		</ul>
-		<a class="pull-right btn btn-small btn-inverse" href="http://philipithomas.com/press">View Full Press <i class="icon-arrow-right icon-white"></I></a><br />
+		<!-- <a class="pull-right btn btn-small btn-inverse" href="http://philipithomas.com/press">View Full Press <i class="icon-arrow-right icon-white"></I></a><br /> -->
 	</div>
 	</div>
 	</div>
@@ -332,7 +260,7 @@ iprogram('Mathematica','60');
 
       <footer style="padding-top: 20px;">
 	<hr />
-      <p style="text-align: center">&copy; <a href="http://www.philipithomas.com">Philip I Thomas</a> 2012</p>
+      <p style="text-align: center">&copy; <a href="http://kyle.wiebe.rs">Kyle C. Wiebers</a> 2012</p>
       </footer>      
 
     </div> <!-- /container -->
